@@ -1,0 +1,21 @@
+Key,Vietnamese,Korean
+start_game,BẮT ĐẦU,게임 시작
+quit,THOÁT,종료
+pause,Tạm dừng,일시 중지
+win,Chiến thắng,승리
+lose,Thua,잃고
+resume,Tiếp tục,재생
+shop,Cửa hàng,가게
+buy, Mua,구매
+deselect,Bỏ dùng,해제
+choose,Sử dụng,사용
+level,Màn chơi,계급
+info,THÔNG TIN,정보
+setting,Cài đặt,환경
+save,Lưu,저장
+id_dep0,Dép lào màu xám,그레이 샌들
+id_dep1,Dép lào màu tím,보라색 슬리퍼
+id_dep2,Dép lào màu nâu,브라운 샌들
+id_dep3,Dép lào màu hồng,핑크색 슬리퍼
+id_dep4,Dép lào màu đỏ,빨간 샌들
+id_dep5,Dép lào màu xanh lá,그린 샌들
